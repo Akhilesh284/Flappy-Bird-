@@ -12,17 +12,18 @@ source.include_exts = py,png,jpg,jpeg,ttf,wav,mp3,json,txt
 
 version = 1.0
 
-requirements = python3,pygame-ce
+requirements = python3,kivy,pygame
 
 orientation = portrait
 
 fullscreen = 1
 
-# Main Python file
-source.main = flappy.py
 
 # Android API versions
 android.api = 33
+android.sdk = 34
+android.ndk = 27b
+android.build_tools_version = 34.0.0
 android.minapi = 21
 
 # Allow internet permission (safe even if your game doesn't use it)
