@@ -1,0 +1,22 @@
+{
+  "volume": 0.44583333333333336,
+  "night_mode": false,
+  "selected_skin": "blue",
+  "unlocked_skins": [
+    "red",
+    "blue",
+    "green"
+  ],
+  "achievements": {
+    "first_flight": true,
+    "score_1": true,
+    "score_10": true,
+    "score_25": true,
+    "score_50": false,
+    "new_record": true,
+    "night_owl": true,
+    "collector": false,
+    "platinum_medal": false
+  },
+  "best_medal": "gold"
+}
