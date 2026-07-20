@@ -5,7 +5,7 @@ package.domain = org.akhilesh
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,ttf,wav,mp3,json,txt
 version = 1.0
-requirements = python3==3.11.8,hostpython3==3.11.8,pygame_sdl2
+requirements = python3==3.11.8,hostpython3==3.11.8,pygame
 orientation = portrait
 fullscreen = 1
 
